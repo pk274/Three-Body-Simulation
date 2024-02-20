@@ -1,0 +1,20 @@
+﻿  Quelle.cpp
+C:\Users\paulk\source\repos\Three-Body-Simulation\ThreeBodySim\Quelle.cpp(119,32): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\paulk\source\repos\Three-Body-Simulation\ThreeBodySim\Quelle.cpp(122,76): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\paulk\source\repos\Three-Body-Simulation\ThreeBodySim\Quelle.cpp(125,76): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\paulk\source\repos\Three-Body-Simulation\ThreeBodySim\Quelle.cpp(231,75): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\paulk\source\repos\Three-Body-Simulation\ThreeBodySim\Quelle.cpp(283,55): warning C4244: "Argument": Konvertierung von "T" in "float", möglicher Datenverlust
+          with
+          [
+              T=int
+          ]
+C:\Users\paulk\source\repos\Three-Body-Simulation\ThreeBodySim\Quelle.cpp(283,48): warning C4244: "Argument": Konvertierung von "T" in "float", möglicher Datenverlust
+          with
+          [
+              T=int
+          ]
+  Code wird generiert.
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 211 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  ThreeBodySim.vcxproj -> C:\Users\paulk\source\repos\Three-Body-Simulation\x64\Release\ThreeBodySim.exe
